@@ -3,6 +3,7 @@
 ## Movie search app.
 
 Search your favourite movie and see the deatils.
+View the app [here](https://shofiq0023.github.io/popcorn/).
 
 Technologies used:
 - [OMBD Api](https://www.omdbapi.com/).
