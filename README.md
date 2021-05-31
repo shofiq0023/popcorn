@@ -3,6 +3,7 @@
 ## Movie search app.
 
 Search your favourite movie and see the deatils.
+
 Technologies used:
 - [OMBD Api](https://www.omdbapi.com/).
 - HTML, CSS, Bootstrap 4.6
