@@ -10,7 +10,7 @@ Technologies used:
 - HTML, CSS, Bootstrap 4.6
 - JavaScript (ES6)
 
-Functionalities:
+Functionality:
 - Search movies, series, cartoons
 - See valid information from IMDB
 - See ratings from IMDB, Rotten Tomatoes and Metacritic.
